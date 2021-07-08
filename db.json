@@ -1,0 +1,20 @@
+{
+    "hikes": [{
+        "hike": "Mt. Whitney", 
+        "distance": 20.9,
+        "image": "https://images.unsplash.com/photo-1617510031582-f1186075eb6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXQuJTIwd2hpdG5leXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60", 
+        "likes": 0
+    }, 
+    {
+        "hike": "Mt. Everest via South Col", 
+        "distance": 25.9, 
+        "image": "https://images.unsplash.com/photo-1624635833943-6da00429e4bd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bXQuJTIwZXZlcmVzdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60", 
+        "likes": 0
+    },{
+        "hike": "Mt. Lassen", 
+        "distance": 5.1, 
+        "image": "https://images.unsplash.com/photo-1622050643943-5971d54721f8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXQuJTIwbGFzc2VufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "likes": 0
+    }
+    ]
+}
